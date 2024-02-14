@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-nmap": "^4.0.0",
+    "node-wifi": "^2.0.16"
+  }
+}
